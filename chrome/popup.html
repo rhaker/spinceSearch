@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Spince Settings</title>
+    <style>
+    body {
+      overflow: hidden;
+      margin: 0px;
+      padding: 0px;
+      background: white;
+    }
+    div:first-child {
+      margin-top: 0px;
+    }
+    div {
+      cursor: pointer;
+      text-align: center;
+      padding: 5px 5px;
+      font-family: sans-serif;
+      font-size: 1.2em;
+      width: 175px;
+      margin-top: 5px;
+      background: #cccccc;
+    }
+    div:hover {
+      background: #aaaaaa;
+    }
+    #blue {
+      border: 1px solid red;
+      color: blue;
+    }    
+	.red {
+      border: 1px solid red;
+      color: red;
+    }    
+    #green {
+      border: 1px solid green;
+      color: green;
+    }
+	#red2 {
+      border: 1px solid red;
+      color: red;
+	  display:none;
+    }    
+    #green2 {
+      border: 1px solid green;
+      color: green;
+	  display:none;
+    }    
+	#yellow {
+      border: 1px solid yellow;
+      color: yellow;	  
+    }    
+	#gray {
+      border: 1px solid gray;
+      color: gray;	  
+    }   	
+	#help {
+      border: 1px solid blue;
+      color: white;
+	  font-size: 1.0em;	  
+	  display:none;
+    }   		
+    </style>    		
+	<script src="js/popup.js"></script>	
+  </head>
+  <body>
+	<div id="hideCont">
+		<div id="blue">Rank: Fewest Ads</div>    			
+		<div class="red" id="imageRank">Rank: Image Count</div>
+		<div class="red" id="scriptRank">Rank: Script Count</div>				
+		<div class="red" id="videoRank">Rank: Video Count</div>		
+		<div class="red" id="textRank">Rank: Text Count</div>
+		<div class="red" id="linkRank">Rank: Link Count</div>		
+		<div id="yellow">Manage Links</div>
+		<div id="red2">Exclude a Link</div>
+		<div id="green2">Include a Link</div>		
+		<div id="green">Pause/Resume</div>		
+		<div id="help">Help?</div>
+		<div id="gray">Close</div>    	 
+	</div>
+	
+  </body>
+</html>
