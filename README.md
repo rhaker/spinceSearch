@@ -12,7 +12,7 @@ You can install Spince Search from the Chrome Web Store via <https://chrome.goog
 
 ## Background - The Ad Blocker Controvery
 
-Millions of people have installed ad blockers because they almost always provide a better user experience. In many situations, pop-up ads and other intrusive techniques make it virtually impossible to navigate a site. Of course, to publishers who rely on the income of ads to cover their expenses and turn a profit, these ads blockers pose a significant threat. In theory, if everyone used an ad blocker, ad-supported sites would not be able to exist.
+Millions of people have installed ad blockers because they almost always provide a better user experience. In many situations, pop-up ads and other intrusive techniques make it virtually impossible to navigate a site. Of course, to publishers who rely on the income of ads to cover their expenses and turn a profit, these ads blockers pose a significant threat. In theory, if everyone uses an ad blocker, ad-supported sites would not be able to exist.
 
 What has occurred recently is a constant battle between the ad block providers and the website publishers. There are now many sites that detect ad blockers and prevent the user from even seeing the content. Or now sites try to find ways to show ads even if an ad blocker is installed. It is a constant game of back and forth. 
 
