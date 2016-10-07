@@ -1,13 +1,3 @@
-## Spince Search
-
-Spince Search is a free tool that provides enhanced search results for Google and Bing queries, with a default ranking by fewest ads.
-
-## Background - The Ad Blocker Controvery
-
-Millions of people have installed ad blockers because they almost always provide a much better user experience. In many situations, pop-up ads and other intrusive techniques make it impossible to navigate a site. Of course, to publishers who rely on the income of ads to cover their expenses and turn a profit, these ads are a necessary cost. In theory, if everyone used an ad blocker, ad-supported sites would not be able to exist.
-
-What has occurred recently is a constant battle between the ad block providers and the publishers. There are now many sites that detect ad blockers and prevent the user from even seeing the content. Or now sites try to find ways to show ads even if an ad blocker is installed. It is a constant game of back and forth. 
-
 ## The Spince Search Approach
 
 Ad revenue to the website publisher is typically a function of views * CPM (cost per thousand impressions). The smaller the number of views to the site, the less revenue the publisher recieves. Spince Search works by incentivizing the publisher to show fewer ads in order to rank higher in search results. Note that this approach does not require the publisher to show no ads.
@@ -15,6 +5,12 @@ Ad revenue to the website publisher is typically a function of views * CPM (cost
 ## Demo
 
 ![alt text](http://search.spince.com/img/federalAidBing.gif "Demo")
+
+## Background - The Ad Blocker Controvery
+
+Millions of people have installed ad blockers because they almost always provide a much better user experience. In many situations, pop-up ads and other intrusive techniques make it virtually impossible to navigate a site. Of course, to publishers who rely on the income of ads to cover their expenses and turn a profit, these ads blockers pose a significant threat. In theory, if everyone used an ad blocker, ad-supported sites would not be able to exist.
+
+What has occurred recently is a constant battle between the ad block providers and the website publishers. There are now many sites that detect ad blockers and prevent the user from even seeing the content. Or now sites try to find ways to show ads even if an ad blocker is installed. It is a constant game of back and forth. 
 
 ## Installation
 
