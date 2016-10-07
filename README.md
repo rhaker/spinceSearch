@@ -10,7 +10,7 @@ What has occurred recently is a constant battle between the ad block providers a
 
 ## The Spince Search Approach
 
-Ad revenue to the website publisher is typically a function of views * CPM (cost per thousand impressions). The smaller the number of views to the site, the less revenue the publisher recieves. Spince Search works by incentivizing the publisher to show fewer ads in order to rank higher in search results.
+Ad revenue to the website publisher is typically a function of views * CPM (cost per thousand impressions). The smaller the number of views to the site, the less revenue the publisher recieves. Spince Search works by incentivizing the publisher to show fewer ads in order to rank higher in search results. Note that this approach does not require the publisher to show no ads.
 
 ## Demo
 
