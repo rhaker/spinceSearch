@@ -6,22 +6,22 @@ Ad revenue to the website publisher is typically a function of views * CPM (cost
 
 ![alt text](http://search.spince.com/img/federalAidBing.gif "Demo")
 
+## Installation
+
+You can install Spince Search from the Chrome Web Store via <https://chrome.google.com/webstore/detail/spince-search/okhkfjjedepjhnfodgppdcphcmblkpjj/>
+
 ## Background - The Ad Blocker Controvery
 
 Millions of people have installed ad blockers because they almost always provide a better user experience. In many situations, pop-up ads and other intrusive techniques make it virtually impossible to navigate a site. Of course, to publishers who rely on the income of ads to cover their expenses and turn a profit, these ads blockers pose a significant threat. In theory, if everyone used an ad blocker, ad-supported sites would not be able to exist.
 
 What has occurred recently is a constant battle between the ad block providers and the website publishers. There are now many sites that detect ad blockers and prevent the user from even seeing the content. Or now sites try to find ways to show ads even if an ad blocker is installed. It is a constant game of back and forth. 
 
-## Installation
+## Spince Search Features
 
-You can install Spince Search from the Chrome Web Store via <https://chrome.google.com/webstore/detail/spince-search/okhkfjjedepjhnfodgppdcphcmblkpjj/>
-
-## Features
-
-The tool enhances your search results by providing an extra level of analysis on top of Google and Bing searches. With Spince, the default ranking is by fewest advertisements.
+The tool enhances your search results by providing an extra level of analysis on top of Google and Bing searches. With Spince, the default ranking is by fewest advertisements. In order rank higher with Spince Search, the website publisher is incentivized to show fewer ads.
 
 
-Other Features:
+The tool also includes other features:
 <ul>
 <li>Summary snapshot view of a search result</li>
 <li>Snapshot includes a list of site frameworks</li>
