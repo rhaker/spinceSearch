@@ -6,7 +6,7 @@ Spince Search is a free tool that provides enhanced search results for Google an
 
 Millions of people have installed ad blockers because they almost always provide a much better user experience. In many situations, pop-up ads and other intrusive techniques make it impossible to navigate a site. Of course, to publishers who rely on the income of ads to cover their expenses and turn a profit, these ads are a necessary cost. In theory, if everyone used an ad blocker, ad-supported sites would not be able to exist.
 
-What has occurred recently is a constant battle between the ad block providers and the publishers. There are now many sites that detect ad blockers and prevent the user from even seeing the content. Or now sites try to find ways to show ads even if an ad blocker is installed. It is constant game of back and forth. 
+What has occurred recently is a constant battle between the ad block providers and the publishers. There are now many sites that detect ad blockers and prevent the user from even seeing the content. Or now sites try to find ways to show ads even if an ad blocker is installed. It is a constant game of back and forth. 
 
 ## The Spince Search Approach
 
