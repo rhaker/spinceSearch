@@ -1,8 +1,20 @@
 ## Spince Search
 
-Spince Search is a free tool that provides enhanced search results for Google and Bing queries.
+Spince Search is a free tool that provides enhanced search results for Google and Bing queries, with a default ranking by fewest ads.
 
-![alt text](http://search.spince.com/img/basquiatGoogle.gif "Demo")
+## Background - The Ad Blocker Controvery
+
+Millions of people have installed ad blockers because they almost always provide a much better user experience. In many situations, pop-up ads and other intrusive techniques make it impossible to navigate a site. Of course, to publishers who rely on the income of ads to cover their expenses and turn a profit, these ads are a necessary cost.
+
+What has occurred recently is a constant battle between the ad block providers and the publishers. There are now many sites that detect ad blockers and prevent the user from even seeing the content. Or sites that try to find ways to show ads even if an ad blocker is installed. 
+
+## The Spince Search Approach
+
+Ad revenue to the website publisher is typically a function of views * CPM (cost per thousand impressions). The smaller the number of views to the site, the less revenue the publisher recieves. Spince Search works by incentivizing the publisher to show fewer ads in order to rank higher in search results.
+
+## Demo
+
+![alt text](http://search.spince.com/img/federalAidBing.gif "Demo")
 
 ## Installation
 
@@ -10,21 +22,21 @@ You can install Spince Search from the Chrome Web Store via <https://chrome.goog
 
 ## Features
 
-The tool enhances your search results by providing an extra level of analysis on top of Google and Bing searches. With Spince, you can rank your results by fewest advertisements or you can see the technical frameworks behind each result.
+The tool enhances your search results by providing an extra level of analysis on top of Google and Bing searches. With Spince, the default ranking is by fewest advertisements.
 
+
+Other Features:
 <ul>
 <li>Summary snapshot view of a search result</li>
 <li>Snapshot includes a list of site frameworks</li>
 <li>Snapshot also includes component counts</li>
 <li>TF algorithm extracts a key sentence</li>
-<li>Rank the results by fewest ads</li>
 <li>Rank by text %, video, or image count</li>
 <li>Rank results by script or link count</li>
 <li>Runs on Google and Bing search engines</li>										
 <li>Doesn't run on non-search pages</li>										
 <li>Exclude any link to prevent analysis</li>                    					
-<li>Minimal bandwidth footprint (KBs)</li>					
-<li>Standalone API under development</li>					
+<li>Minimal bandwidth footprint (KBs)</li>								
 <li>No browsing data sent to Spince</li>
 <li>Open source code on github</li>
 </ul>
@@ -39,6 +51,4 @@ As an example, suppose you want to prevent all links for the www.example.com fro
 
 ## Additional Notes
 
-A RESTful API is under development. New features and pull requests are appreciated. There are also plans to build Spince for other platforms (Firefox, Safari, mobile).
-
-The tool currently works for English, Spanish, German, French, and Italian. More languages can be requested or implemented via pull requests.
+New features and pull requests are appreciated. There are also plans to build Spince for other platforms (Firefox, Safari, mobile).
