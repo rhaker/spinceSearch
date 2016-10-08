@@ -1,6 +1,6 @@
-## The Spince Search Approach
+## The Approach
 
-Ad revenue to the website publisher is typically a function of views * CPM (cost per thousand impressions). The smaller the number of views to the site, the less revenue the publisher recieves. Spince Search works by incentivizing the publisher to show fewer ads in order to rank higher in search results. Note that this approach does not require the publisher to show no ads.
+Ad revenue to the website publisher is typically a function of views * CPM (cost per thousand impressions). The smaller the number of views to the site, the less revenue the publisher receives. Spince Search works by incentivizing the publisher to show fewer ads in order to rank higher in search results. Note that this approach does not require the publisher to show no ads.
 
 ## Demo
 
@@ -10,15 +10,15 @@ Ad revenue to the website publisher is typically a function of views * CPM (cost
 
 You can install Spince Search from the Chrome Web Store via <https://chrome.google.com/webstore/detail/spince-search/okhkfjjedepjhnfodgppdcphcmblkpjj/>
 
-## Background - The Ad Blocker Controvery
+## Background - The Ad Blocker Controversy
 
 Millions of people have installed ad blockers because they almost always provide a better user experience. In many situations, pop-up ads and other intrusive techniques make it virtually impossible to navigate a site. Of course, to publishers who rely on the income of ads to cover their expenses and turn a profit, these ads blockers pose a significant threat. In theory, if everyone uses an ad blocker, ad-supported sites would not be able to exist.
 
 What has occurred recently is a constant battle between the ad block providers and the website publishers. There are now many sites that detect ad blockers and prevent the user from even seeing the content. Or now sites try to find ways to show ads even if an ad blocker is installed. It is a constant game of back and forth. 
 
-## Spince Search Features
+## How It Works
 
-The tool enhances your search results by providing an extra level of analysis on top of Google and Bing searches. With Spince, the default ranking is by fewest advertisements. In order rank higher with Spince Search, the website publisher is incentivized to show fewer ads.
+The tool enhances your search results by providing an extra level of analysis on top of Google and Bing searches. With Spince, the default ranking is by fewest advertisements. In order to rank higher with Spince Search, the website publisher is incentivized to show fewer ads.
 
 
 The tool also includes other features:
